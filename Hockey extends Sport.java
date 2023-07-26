@@ -1,0 +1,4 @@
+class Hockey extends Sport
+{
+
+}
